@@ -111,4 +111,3 @@ st.info(f"""
 # Footer
 st.markdown("---")
 st.markdown("<center>Developed by Kiran | AI Demo 🚀</center>", unsafe_allow_html=True)
-``
